@@ -125,11 +125,9 @@ The global performance of the system was evaluated using the Levenshtein distanc
 
 While the character classifier performs exceptionally well, overall panel reading performance is highly sensitive to panel contrast and noise during the binarization phase.
 
-## 6. Authors
+## 6. Author
 
 - Isam El Mourabet  
-- Santiago Nicolás Díaz Tituaña  
-- Cristian Laurentiu Sindila  
 
 **Universidad Rey Juan Carlos (URJC)**  
-**Computer Engineering**
+**Computer Engineering - Artificial Vision**
